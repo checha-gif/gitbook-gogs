@@ -1,0 +1,3 @@
+git add .
+git commit -m "🔁 Архівування DAO-документації G01–G30"
+git push origin main
